@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{recsys2017}
+D.~Chen, D.~Kim, L.~Xie, M.~Shin, A.~K. Menon, C.~S. Ong, I.~Avazpour, and
+  J.~Grundy.
+\newblock Pathrec: Visual analysis of travel route recommendations.
+\newblock In {\em Proceedings of the Eleventh ACM Conference on Recommender
+  Systems}, RecSys '17, pages 364--365, New York, NY, USA, 2017. ACM.
+
+\bibitem{tc2014}
+J.~Lee, H.~Kim, M.~Shin, J.~Kim, and J.~Huh.
+\newblock Mutually aware prefetcher and on-chip network designs for
+  multi-cores.
+\newblock {\em IEEE Transactions on Computers}, 63(9):2316--2329, Sept 2014.
+
+\bibitem{pact2011}
+J.~Lee, M.~Shin, H.~Kim, J.~Kim, and J.~Huh.
+\newblock Exploiting mutual awareness between prefetchers and on-chip networks
+  in multi-cores.
+\newblock In {\em 2011 International Conference on Parallel Architectures and
+  Compilation Techniques}, pages 177--178, Oct 2011.
+
+\bibitem{hotcloud2011}
+M.~Shin, C.~Guo, and J.~Kim.
+\newblock Achieving bandwidth guarantees in virtual data centers using the hose
+  model.
+\newblock In {\em The 3rd USENIX Workshop on Hot Topics in Cloud Computing
+  (HotCloud'11), Poster session}, June 2011.
+
+\bibitem{iccd2011}
+M.~Shin and J.~Kim.
+\newblock Leveraging torus topology with deadlock recovery for cost-efficient
+  on-chip network.
+\newblock In {\em 2011 IEEE 29th International Conference on Computer Design
+  (ICCD)}, pages 25--30, Oct 2011.
+
+\end{thebibliography}
