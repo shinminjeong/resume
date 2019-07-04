@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex resume"] 1562210193 "resume.aux" "resume.bbl" "resume" 1562210194
+["bibtex resume"] 1562212318 "resume.aux" "resume.bbl" "resume" 1562212319
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/abbrv.bst" 1480098433 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "publications.bib" 1562209988 4699 229ba5c38aa4a1c0314c3574d9842acc ""
-  "resume.aux" 1562210194 396 60eb720cdb35769b5376cb58bb4aab3d "pdflatex"
+  "publications.bib" 1562212313 4604 96141bef9566fa0223f87bab443b9ee5 ""
+  "resume.aux" 1562212318 396 60eb720cdb35769b5376cb58bb4aab3d "pdflatex"
   (generated)
-  "resume.bbl"
   "resume.blg"
-["pdflatex"] 1562210194 "resume.tex" "resume.pdf" "resume" 1562210194
+  "resume.bbl"
+["pdflatex"] 1562212318 "resume.tex" "resume.pdf" "resume" 1562212319
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -46,10 +46,10 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1521018259 4129592 694d16ad0d76efd67fa49384c0024896 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "resume.aux" 1562210194 396 60eb720cdb35769b5376cb58bb4aab3d "pdflatex"
-  "resume.bbl" 1562210194 1979 ccb143bd73de974ac33151d4b7be582d "bibtex resume"
-  "resume.tex" 1562210168 7049 c2472922a6913b50913f932a3e92cb6c ""
+  "resume.aux" 1562212318 396 60eb720cdb35769b5376cb58bb4aab3d "pdflatex"
+  "resume.bbl" 1562212318 2021 d0c1c6021734367fa743b8615c9462a1 "bibtex resume"
+  "resume.tex" 1562211460 7049 c2472922a6913b50913f932a3e92cb6c ""
   (generated)
-  "resume.pdf"
   "resume.aux"
+  "resume.pdf"
   "resume.log"
