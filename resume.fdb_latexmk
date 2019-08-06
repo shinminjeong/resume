@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex resume"] 1565068434 "resume.aux" "resume.bbl" "resume" 1565068434
+["bibtex resume"] 1565068434 "resume.aux" "resume.bbl" "resume" 1565069244
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/abbrv.bst" 1480098433 20329 b5fed53e10044d0f8112183785c759b1 ""
   "publications.bib" 1565068431 4843 7c7e9db78465a017e044e6a2bac9404d ""
-  "resume.aux" 1565068434 438 fa4dbff17f1dc7570d68778cc2ef23d6 "pdflatex"
+  "resume.aux" 1565069244 438 fa4dbff17f1dc7570d68778cc2ef23d6 "pdflatex"
   (generated)
   "resume.bbl"
   "resume.blg"
-["pdflatex"] 1565068434 "resume.tex" "resume.pdf" "resume" 1565068434
+["pdflatex"] 1565069243 "resume.tex" "resume.pdf" "resume" 1565069244
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -46,10 +46,10 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1521018259 4129592 694d16ad0d76efd67fa49384c0024896 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "resume.aux" 1565068434 438 fa4dbff17f1dc7570d68778cc2ef23d6 "pdflatex"
+  "resume.aux" 1565069244 438 fa4dbff17f1dc7570d68778cc2ef23d6 "pdflatex"
   "resume.bbl" 1565068434 2204 5b158068d3b905fdf80c48542c57f2a7 "bibtex resume"
-  "resume.tex" 1565068186 7083 3f6b24d6c42a79ca87e4c2e2d6b36221 ""
+  "resume.tex" 1565069243 7136 497b7afa52e8cf9e2c907973bc7e6efd ""
   (generated)
+  "resume.pdf"
   "resume.log"
   "resume.aux"
-  "resume.pdf"
